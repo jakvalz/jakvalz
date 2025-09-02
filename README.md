@@ -1,15 +1,37 @@
 ## Hi, I'm Joseandres Valencia👋
 
-Jesus is everything!
+🔥Jesus is LORD!🔥
 
-I like to read
+I like to read 📖
 
-I like tacos
+I like tacos 🌮
 
 - 📫 How to reach me: 
-    - email: joseavalencia77@gmail.com
-    - linkedIn: www.linkedin.com/in/joseandres-valencia-425b0031b
-- 🌱 I’m currently learning fullstack development, specifically CSS libraries and intermediate Javascript(9/1)
+    - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) joseavalencia77@gmail.com
+
+    - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/joseandres-valencia-425b0031b
+- 🌱 I’m currently learning fullstack development...
+    -
+    - ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+
+    - ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
+    - ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+
+    - ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+
+
+- My skills so far include...
+    -
+    - ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+    - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+    - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
 <!--
 **jakvalz/jakvalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
