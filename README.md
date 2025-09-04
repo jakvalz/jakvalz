@@ -6,10 +6,6 @@ I like to read 📖
 
 I like tacos 🌮
 
-- 📫 How to reach me: 
-    - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) joseavalencia77@gmail.com
-
-    - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/joseandres-valencia-425b0031b
 - 🌱 I’m currently learning fullstack development...
     -
     - ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
