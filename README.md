@@ -13,9 +13,9 @@ I like tacos 🌮
 
     - ![HTML5]()
 
-    - ![CSS3](https://cdn.jsdelivr.net/gh/selfhst/icons/png/css3.png)
+    - ![CSS3]([https://cdn.jsdelivr.net/gh/selfhst/icons/png/css3.png](https://cdn.jsdelivr.net/gh/selfhst/icons/webp/css3.webp))
 
-    -![JavaScript](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript.svg)
+    -![JavaScript]()
 
 
 - 🔭 I’m currently working on crushing it!
