@@ -9,11 +9,11 @@ I like tacos 🌮
 
 - My skills so far include...
     -
-    - ![Bootstrap](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bootstrap.svg)
+    - ![Bootstrap]()
 
-    - ![HTML5](https://cdn.jsdelivr.net/gh/selfhst/icons/svg/html5.svg)
+    - ![HTML5]()
 
-    - ![CSS3](https://cdn.jsdelivr.net/gh/selfhst/icons/svg/css3.svg)
+    - ![CSS3](https://cdn.jsdelivr.net/gh/selfhst/icons/png/css3.png)
 
     -![JavaScript](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript.svg)
 
