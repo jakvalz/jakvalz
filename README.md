@@ -1,37 +1,39 @@
-## Hi, I'm Joseandres Valencia👋
+# Hi, I'm Joseandres Valencia 👋
 
-🔥Jesus is LORD!🔥
+🔥 **Jesus is LORD!** 🔥
 
-I like to read 📖
+Results-driven Software Engineer based out of the Phoenix/East Valley area in Arizona, with a strong foundation in modern web architecture, responsive interface design, and rigorous version control workflows. Focused on building clean, scalable, and maintainable software within established engineering teams to deliver immediate value.
 
-I like tacos 🌮
+### 📖 About Me
 
+* 📚 I love to **read** and continuously expand my technical and problem-solving knowledge.
+* 🌮 I am a certified **taco** enthusiast.
+* 💻 I specialize in turning user stories and technical requirements into reliable, production-ready applications.
+* 🎯 **Goal:** Working with an established engineering team on an existing product where I can be an immediate asset and grow my impact.
 
-- My skills so far include...
-    -
-    - ![Bootstrap]()
+### 🛠️ Skills & Technologies
 
-    - ![HTML5]()
+| Category | Technologies & Tools | 
+| ----- | ----- | 
+| **Languages & Core** | JavaScript (ES6+), HTML5, CSS3, Markdown | 
+| **Frontend & UI** | Responsive Web Design, Flexbox, CSS Grid, DOM Manipulation, Component-Driven Development | 
+| **Tools & Workflows** | Git, GitHub, Command Line / Terminal, Visual Studio Code, Chrome Developer Tools | 
 
-    - ![CSS3]([https://cdn.jsdelivr.net/gh/selfhst/icons/png/css3.png](https://cdn.jsdelivr.net/gh/selfhst/icons/webp/css3.webp))
+### 🚀 Projects & Engineering Milestones
 
-    -![JavaScript]()
+* **Interactive Web Applications:** Designed and engineered dynamic browser-based applications featuring real-time DOM manipulation, event-driven architecture, and robust state management.
+* **Responsive Portfolios & Landing Pages:** Developed mobile-first web platforms adhering to modern accessibility and design standards, leveraging advanced CSS layout systems and clean component structures.
+* **Version Control & Repository Management:** Maintained pristine repository hygiene using Git and GitHub workflows, utilizing strategic branching, merging, and iterative commit histories.
 
+<!-- ### 📊 GitHub Stats -->
 
-- 🔭 I’m currently working on crushing it!
+### 📫 Connect With Me
 
+* **GitHub:** [@jakvalz](https://github.com/jakvalz)
+* **LinkedIn:** [Joseandres Valencia](www.linkedin.com/in/joseandres-valencia-swe)
+* **X:** [@jakvalz](https://x.com/jakvalz)
+* **Portfolio:** [My Portfolio🌐](https://joseandres-valencia.info/)
+* **Email:** [📧](joseavalencia77@gmail.com)
+* **Location:** Chandler / Greater Phoenix Area, AZ
 
-<!--
-**jakvalz/jakvalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-
-- ⚡ Fun fact: ...
--->
+*“Commit to the LORD whatever you do, and he will establish your plans.” — Proverbs 16:3*
