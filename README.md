@@ -29,7 +29,6 @@ Results-driven Software Engineer based out of the Phoenix/East Valley area in Ar
 
 ### 📫 Connect With Me
 
-* **GitHub:** [@jakvalz](https://github.com/jakvalz)
 * **LinkedIn:** [Joseandres Valencia](www.linkedin.com/in/joseandres-valencia-swe)
 * **X:** [@jakvalz](https://x.com/jakvalz)
 * **Portfolio:** [My Portfolio🌐](https://joseandres-valencia.info/)
