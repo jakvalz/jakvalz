@@ -33,7 +33,7 @@ Results-driven Software Engineer based out of the Phoenix/East Valley area in Ar
 * **LinkedIn:** [Joseandres Valencia](www.linkedin.com/in/joseandres-valencia-swe)
 * **X:** [@jakvalz](https://x.com/jakvalz)
 * **Portfolio:** [My Portfolio🌐](https://joseandres-valencia.info/)
-* **Email:** [joseavalencia&&@gmail.com]
+* **Email:** joseavalencia77@gmail.com
 * **Location:** Chandler / Greater Phoenix Area, AZ
 
 *“Commit to the LORD whatever you do, and he will establish your plans.” — Proverbs 16:3*
